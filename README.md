@@ -1,6 +1,1 @@
 "# BigData_Visualiza_Practice" 
-"# bigData_visualization_swh" 
-"# bigData_visual_swh" 
-"# BigData_Visualization_swh" 
-"# BigData_Visualization_Practice" 
-"# BigData_Visualiza_Practice" 
